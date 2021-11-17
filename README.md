@@ -4,7 +4,7 @@
 - A procurar de um estagio!
 - Cursando Análise e Desenvolvimento de Sistemas pela Universidade Candido Mendes
 - Cursando Back-End Senai SP
-- Aprendendo **C#, .Net, HTML, CSS, SQL, JAVASCRIPT**
+- Tecnologias **C# | .Net | HTML | CSS | SQL | JAVASCRIPT**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
