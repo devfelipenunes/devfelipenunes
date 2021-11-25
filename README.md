@@ -4,8 +4,11 @@
 # Dev Felipe Nunes
 
 > A procurar de um estagio!
+
 > Cursando Análise e Desenvolvimento de Sistemas pela Universidade Candido Mendes
+
 > Cursando Back-End Senai SP
+
 > Tecnologias **C# | .Net | HTML | CSS | SQL | JAVASCRIPT**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
