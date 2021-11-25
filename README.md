@@ -3,7 +3,7 @@
 
 # Dev Felipe Nunes
 
-> A procurar de um estagio!
+- Procurando vagas para Programador .net Estágio/Junior
 
 > Cursando Análise e Desenvolvimento de Sistemas pela Universidade Candido Mendes
 
