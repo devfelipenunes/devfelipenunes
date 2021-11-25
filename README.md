@@ -3,7 +3,7 @@
 
 # Dev Felipe Nunes
 
-- Procurando vagas para Programador .net Estágio/Junior
+## Perfil
 
 > Cursando Análise e Desenvolvimento de Sistemas pela Universidade Candido Mendes
 
@@ -11,6 +11,11 @@
 
 > Tecnologias **C# | .Net | HTML | CSS | SQL | JAVASCRIPT**
 <br><br>
+
+## Objetivo
+
+> Progamador Junior .net
+
 ## 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
