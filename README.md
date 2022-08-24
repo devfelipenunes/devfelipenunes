@@ -7,14 +7,13 @@
 
 > Cursando Análise e Desenvolvimento de Sistemas pela Universidade Candido Mendes
 
-> Cursando Back-End Senai SP
+> Tecnologias **ReactJs | React Native | NodeJs**
 
-> Tecnologias **C# | .Net | HTML | CSS | SQL | JAVASCRIPT**
 <br><br>
 
 ## Objetivo
 
-> Progamador Junior .net
+> Progamador Junior
 
 ## 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
