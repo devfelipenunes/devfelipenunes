@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 Atualmente, trabalho no desenvolvimento do aplicativo do Clube de Férias de Stellabarros, utilizando tecnologias como ReactJS, React Native, TypeScript, JavaScript, NodeJS e NestJS. Meu objetivo é criar soluções eficientes e inovadoras para atender às necessidades dos usuários, sempre buscando aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.<br><br>Com experiência em várias tecnologias e metodologias de desenvolvimento, estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. Se você está procurando um desenvolvedor comprometido e dedicado para sua equipe, entre em contato comigo para discutirmos como posso contribuir para o sucesso do seu projeto.
 
 
