@@ -4,7 +4,7 @@ Olá! Sou um desenvolvedor React Native pleno com 2 anos de experiência, atualm
 
 Ao longo da minha jornada profissional, tive a incrível oportunidade de liderar o desenvolvimento de um Super App do zero em colaboração com um colega desenvolvedor. Juntos, construímos a nova interface da nossa startup, utilizando React Native e TypeScript, proporcionando uma experiência aprimorada aos usuários.
 
-Atualmente, estou embarcando em uma jornada de estudos focada em tecnologias emergentes, como Web3, Solidity e contratos ERC20 e BEP20. Essa exploração contínua reflete meu compromisso em me manter à frente nas últimas tendências e oferecer soluções cada vez mais inovadoras.
+Atualmente, estou embarcando em uma jornada de estudos focada em tecnologias emergentes, como Web3, Solidity e contratos ERC20 | BEP20 | DAO. Essa exploração contínua reflete meu compromisso em me manter à frente nas últimas tendências e oferecer soluções cada vez mais inovadoras.
 
 Estou aberto a novos desafios e oportunidades que me permitam expandir ainda mais meu conjunto de habilidades e contribuir significativamente para o sucesso de projetos inovadores. Se você procura um desenvolvedor dedicado e apaixonado por tecnologia para integrar sua equipe, ficarei feliz em discutir como posso agregar valor ao seu projeto.
 
