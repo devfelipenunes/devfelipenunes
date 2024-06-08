@@ -1,5 +1,5 @@
 
-# 💫 Sobre Mim:
+## 💫 Sobre Mim:
 Olá! Sou um desenvolvedor React Native pleno com 2 anos de experiência, atualmente imerso no emocionante universo da tecnologia. Meu foco está no desenvolvimento do aplicativo para o Clube de Férias de Stellabarros, onde utilizo minha expertise em ReactJS, React Native, TypeScript, JavaScript, NodeJS e NestJS para criar soluções eficientes e inovadoras.
 
 Ao longo da minha jornada profissional, tive a incrível oportunidade de liderar o desenvolvimento de um Super App do zero em colaboração com um colega desenvolvedor. Juntos, construímos a nova interface da nossa startup, utilizando React Native e TypeScript, proporcionando uma experiência aprimorada aos usuários.
